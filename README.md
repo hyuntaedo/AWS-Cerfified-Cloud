@@ -33,6 +33,28 @@
  * Stop spending money running and maintaining data centers
  * Go global in minutes
 
+## 1.1.5 클라우드 컴퓨팅 모델 유형
+ * Infrastructure as a Service(IaaS) - 원시형태로 제공(Amazon EC2)
+  
+   - IaaS로 줄여쓰기도 하는 Infrastucture as a Service는 클라우드 IT의 기본빌딩블록을 포함하고 일반적으로는 네트워킹 기능, 컴퓨터(가상 또는 전용하드웨어) 및 데이터 스토리지 공간을 제공
+   - IT 리소스에 대해 가장 높은 수준의 유연성과 관리제어를 제공하며, 오늘날 많은 IT부서와 개발자에게 익숙한 기존 IT리소스와 비슷하다.
+ 
+ * Platform as a Service(PaaS) - 원시형태와 완제품의 중간(Amazon Beanstalk)
+ 
+   - Platform as a Service(PaaS)를 사용하면 조직은 기본 인프라(일반적으로 하드웨어와 운영체제)를 관리할 필요가 없어 애플리케이션 개발과 관리에 집중할 수 있습니다.
+   - 즉 애플리케이션 실행과 관련된 리소스구매, 용량계획, 소프트웨어 유지관리, 패치 또는 다른 모든 획일적인 작업에 대한 부담을 덜어 더욱 효율적으로 되도록 한다.
+ 
+ * Software as a Service(SaaS) - 완제품(Amazon Rekognition)
+ 
+   - Software as a Service는 서비스 제공업체에 의해 실행되고 관리되는 완전한 제품을 고객에게 제공
+   - 대부분의 경우 Software as a Service 라고 한다면 최종 사용자 애플리케이션을 말합니다.
+   - SaaS 오퍼링을 사용할 경우 서비스가 어떻게 유지관리되는지 기본 인프라가 어떻게 관리되는지 생각할 필요가 없으며, 소프트웨어의 특정부분을 어떻게 사용할지만 생각하면 됩니다.
+   
+ * On-premise vs IaaS vs PaaS vs SaaS
+ 
+ ![image](https://user-images.githubusercontent.com/44853842/178099773-d4249efe-f9af-402f-bb34-c34a156dcfc0.png)
+
+
 
  
   
