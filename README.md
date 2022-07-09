@@ -55,8 +55,32 @@
  ![image](https://user-images.githubusercontent.com/44853842/178099773-d4249efe-f9af-402f-bb34-c34a156dcfc0.png)
 
 
+## 1.1.6 AWS Cloud Use Case
 
+ * AWS를 통해 복잡하고 확장가능한 애플리케이션을 만들 수 있음
+ * 다양한 산업분야에 적용 가능
+   * Netflix, Activision, Macdonald's, FOX
+   * Enterprise IT, Backup & Storage, Big Data Analysis, Create BackEnd, Gamaing
+
+## 1.1.7 AWS Global Infrastructure
+ * Refer to URL : https://infrastructure.aws/
+
+## 1.1.8 AWS Regions
+
+ * AWS has Region all around world
+ * Names can be us-east-1, eu-west-3...
+ * Region이란 데이터 센터의 집합소이다.
+ * 대부분의 서비스는 특정 리전에 국한된다.
+
+## 1.1.9 공동책임모델
  
+ ![image](https://user-images.githubusercontent.com/44853842/178101885-8e9552aa-74f8-40c4-9eb4-00e2736cb157.png)
+
+ * https://aws.amazon.com/shared-responsibility-model/
+
+## 1.1.10 AWS Acceptable Use Policy
+ 
+ * https://aws.amazom.com/aup/
   
   
   
