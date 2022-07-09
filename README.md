@@ -83,7 +83,10 @@
  * https://aws.amazom.com/aup/
   
   
-  
+## 1.11 오답노트
+
+![image](https://user-images.githubusercontent.com/44853842/178102536-c9d29e2c-c60c-4886-82f8-df1f89ebbfa8.png)
+
   
   
 
