@@ -87,6 +87,22 @@
 
 ![image](https://user-images.githubusercontent.com/44853842/178102536-c9d29e2c-c60c-4886-82f8-df1f89ebbfa8.png)
 
+
+
+# 2. IAM - ID 및 액세스 관리
+
+## 2.1.1 IAM소개 : 사용자, 그룹, 정책
+  
+  * IAM : Identity and Access Management, Global Service
+  * 계정을 생성할 때 루트계정을 만들 떄 사용이 되는 기능도 IAM이다.
+  * 하나의 사용자는 조직내의 한 사람에 해당이 된다.
+  * 필요 시 그룹으로 묶을 수 있다.
+  * 그룹에는 오직 사용자만 배치가 가능하다.
+  * 한 사용자가 여러 그룹에 배치 될 수 있음
+  
+## 2.1.2 IAM Permission
+
+  * 
   
   
 
